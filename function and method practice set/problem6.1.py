@@ -1,0 +1,2 @@
+# variable scope and docstrings
+#1. write a function increment() that has a local variable counter initaized to 0 and increment it by 1 each it is called. observe whether whether the value presists across functon calls.

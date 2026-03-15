@@ -1,0 +1,1 @@
+# Q2. install and import the requests module (if avilabe)and use it to fetch data from "https://api.gethub.com".
