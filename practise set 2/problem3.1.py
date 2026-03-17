@@ -1,0 +1,1 @@
+#print number from 1 to 20 using s for loop     
